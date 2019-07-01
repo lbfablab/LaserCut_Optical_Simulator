@@ -4,3 +4,7 @@ Optical path and focus simulator through mirros and lens
 ## blaba
 
 https://www.glowscript.org/#/user/ao/folder/MyPrograms/program/Miroir3
+
+
+<iframe src="miroir3.html" width="320" height="340"></iframe>
+   
