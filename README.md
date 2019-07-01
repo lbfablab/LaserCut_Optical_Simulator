@@ -11,6 +11,6 @@ https://www.glowscript.org/#/user/ao/folder/MyPrograms/program/Miroir3
  
 ## test html link
 
-<a href="./miroir3.html"><img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/test.jpg" width="10%" title="White flower" alt="Flower"></a>
+<a href="https://www.glowscript.org/#/user/ao/folder/MyPrograms/program/Miroir3"><img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/test.jpg" width="10%" title="White flower" alt="Flower"></a>
 
 
