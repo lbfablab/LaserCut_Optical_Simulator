@@ -4,9 +4,10 @@
 <a href="https://www.glowscript.org/#/user/ao/folder/DecoupeuseLaser/program/OpticalSimulatorTR">
 <b>LaserCut Optical path and focus simulator</b> </a>
  
+<p> </p> 
 <b>Vue générale de la simulation</b>
 
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="75%"  alt="Vue globale" title="Vue générale"/>
 
 
 Draw laser path through 3 mirrors and the optical lens
