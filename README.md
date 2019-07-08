@@ -11,25 +11,30 @@ Draw laser path through 3 mirrors and the optical lens
   * considering relative impact of each incorrect adjustment
   * selecting correction of the major impact
 
+
+<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Réglages.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/MiroirM3.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/PlanFocal.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+ 
 # Documentation
 
 Here you can find useful information about the adjustment parameters of each optical component inside the lasercutter.
 
 
-<a href="https://www.glowscript.org/#/user/ao/folder/DecoupeuseLaser/program/OpticalSimulatorTR">
- 
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="10%" title="White flower" alt="Flower"></a>
-
-
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="50%"  />
- 
  
  
 # Online Simulator
 
+
 <a href="https://www.glowscript.org/#/user/ao/folder/DecoupeuseLaser/program/OpticalSimulatorTR">
  
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/test.jpg" width="10%" title="Optical laser simulator" alt="Optical laser simulator"></a>
+<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="40%" title="White flower" alt="Flower"></a>
+
  
 
 
