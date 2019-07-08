@@ -13,8 +13,9 @@ Draw laser path through 3 mirrors and the optical lens
 
 
 <img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="40%"  alt="Vue globale" title="Vue générale"/>
- 
+<p style="text-align:center;">
 <img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Reglages.png" width="40%"  alt="Réglages" title="Réglages des composants optiques"/>
+ </p>
  
 <img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/MiroirM3.png" width="40%"  alt="Zoom sur le miroir M3" title="Miroir M3 et projection"/>
  
