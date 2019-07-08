@@ -43,42 +43,42 @@ Convention :
 
   -  &nbsp;&theta;<sub>Y>0
  
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/TubeLaserThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/TubeLaserThetaY=10.png" width="40%"  alt="Réglage de l'inclinaison du tube laser" title="Réglage de l'inclinaison du tube laser &theta;<sub>Y>0"/>
  
   -  &nbsp;&theta;<sub>Z>0
  
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/TubeLaserThetaZ=9.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/TubeLaserThetaZ=9.png" width="40%"  alt="Réglage de l'inclinaison du tube laser" title="Réglage de l'inclinaison du tube laser &theta;<sub>Z>0"/>
  
 
 <b>Réglage de l'inclinaison du miroir M1 :</b>
 
   -  &nbsp;&theta;<sub>Y>0
  
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M1ThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M1ThetaY=10.png" width="40%"  alt="Réglage de l'inclinaison du miroir M1" title="Réglage de l'inclinaison du miroir M1 &theta;<sub>Y>0"/>
  
   -  &nbsp;&theta;<sub>Z>0
  
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M1ThetaZ=9.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M1ThetaZ=9.png" width="40%"  alt="Réglage de l'inclinaison du miroir M1" title="Réglage de l'inclinaison du miroir M1 &theta;<sub>Z>0"/>
  
 <b>Réglage de l'inclinaison du miroir M2 :</b>
 
   -  &nbsp;&theta;<sub>Y>0
  
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M2ThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M2ThetaY=10.png" width="40%"  alt="Réglage de l'inclinaison du miroir M2" title="Réglage de l'inclinaison du miroir M2 &theta;<sub>Y>0"/>
  
   -  &nbsp;&theta;<sub>Z>0
  
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M2ThetaZ=9.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M2ThetaZ=9.png" width="40%"  alt="Réglage de l'inclinaison du miroir M2" title="Réglage de l'inclinaison du miroir M2 &theta;<sub>Z>0"/>
  
 <b>Réglage de l'inclinaison du miroir M3 :</b>
 
   -  &nbsp;&theta;<sub>Y>0
  
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M3ThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M3ThetaY=10.png" width="40%"  alt="Réglage de l'inclinaison du miroir M3" title="Réglage de l'inclinaison du miroir M3 &theta;<sub>Y>0"/>
  
   -  &nbsp;&theta;<sub>Z>0
  
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M3ThetaZ=9.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M3ThetaZ=9.png" width="40%"  alt="Réglage de l'inclinaison du miroir M3" title="Réglage de l'inclinaison du miroir M3 &theta;<sub>Z>0"/>
  
  
  
