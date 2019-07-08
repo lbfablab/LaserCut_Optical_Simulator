@@ -32,10 +32,52 @@ Draw laser path through 3 mirrors and the optical lens
 
 Here you can find useful information about the adjustment parameters of each optical component inside the lasercutter.
 
+Convention :
+<b>
+ - en gris, composants neutre (bien réglés, centrés)
+ - en vert, composants inclinés selon réglage (ou déréglés)
+</b>
+
 <b>Réglage de l'inclinaison du tube laser :</b>
 
   -  &nbsp;&theta;<sub>Y>0
+ 
 &nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/TubeLaserThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+  -  &nbsp;&theta;<sub>Z>0
+ 
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/TubeLaserThetaZ=9.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+
+<b>Réglage de l'inclinaison du miroir M1 :</b>
+
+  -  &nbsp;&theta;<sub>Y>0
+ 
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M1ThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+  -  &nbsp;&theta;<sub>Z>0
+ 
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M1ThetaZ=9.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+<b>Réglage de l'inclinaison du miroir M2 :</b>
+
+  -  &nbsp;&theta;<sub>Y>0
+ 
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M2ThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+  -  &nbsp;&theta;<sub>Z>0
+ 
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M2ThetaZ=9.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+<b>Réglage de l'inclinaison du miroir M3 :</b>
+
+  -  &nbsp;&theta;<sub>Y>0
+ 
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M3ThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+  -  &nbsp;&theta;<sub>Z>0
+ 
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/M3ThetaZ=9.png" width="40%"  alt="Vue globale" title="Vue générale"/>
  
  
  
