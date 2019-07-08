@@ -1,5 +1,6 @@
 # LaserCut_Optical_Simulator
 
+Pour accéder à la simulation, cliquer ici :
 
 <a href="https://www.glowscript.org/#/user/ao/folder/DecoupeuseLaser/program/OpticalSimulatorTR">
 <b>LaserCut Optical path and focus simulator</b> </a>
