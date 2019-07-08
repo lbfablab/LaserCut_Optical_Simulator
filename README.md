@@ -37,13 +37,16 @@ Draw laser path through 3 mirrors and the optical lens
  
 # Documentation
 
-Here you can find useful information about the adjustment parameters of each optical component inside the lasercutter.
+Sont décrites ici les informations relatives au réglage de l'inclinaison de chacun des composants optiques de la découpeuse laser. Les angles doivent être compris entre -2° et 2°. 
 
-Convention :
-<b>
- - en gris, composants neutre (bien réglés, centrés)
- - en vert, composants inclinés selon réglage (ou déréglés)
-</b>
+<b>Couleur des obets optiques</b>
+
+Les composants optiques neutres (c'est-à-dire théoriquement réglés plein centre) sont représentés en gris, les composants réglés selon les angles choisis en vert.
+
+<b>Couleur des faisceaux laser</b>
+
+Le faisceau théorique, émis par un tube laser parfaitement réglé, et réfléchi par des miroirs parfaitement réglés est représenté en vert. Le faisceau réel en rouge.
+
 
 <b>Réglage de l'inclinaison du tube laser :</b>
 
