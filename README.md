@@ -16,12 +16,12 @@ Draw laser path through 3 mirrors and the optical lens
 Here you can find useful information about the adjustment parameters of each optical component inside the lasercutter.
 
 
-<a href="https://www.glowscript.org/#/user/ao/folder/MyPrograms/program/Miroir3">
+<a href="https://www.glowscript.org/#/user/ao/folder/DecoupeuseLaser/program/OpticalSimulatorTR">
  
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/test.jpg" width="10%" title="White flower" alt="Flower"></a>
+<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="10%" title="White flower" alt="Flower"></a>
 
 
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/test.jpg" width="50%"  />
+<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="50%"  />
  
  
  
