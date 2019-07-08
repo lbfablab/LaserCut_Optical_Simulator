@@ -1,8 +1,14 @@
 # LaserCut_Optical_Simulator
 
 
-<a href="https://www.glowscript.org/#/user/ao/folder/DecoupeuseLaser/program/OpticalSimulatorTR" text="LaserCut Optical path and focus simulator"> </a>
+<a href="https://www.glowscript.org/#/user/ao/folder/DecoupeuseLaser/program/OpticalSimulatorTR">
+<b>LaserCut Optical path and focus simulator</b> </a>
  
+<b>Vue générale de la simulation</b>
+
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+
+
 Draw laser path through 3 mirrors and the optical lens
 
 <b>Estimation of the defocusing resulting from :</b>
@@ -13,9 +19,6 @@ Draw laser path through 3 mirrors and the optical lens
   * considering relative impact of each incorrect adjustment
   * selecting correction of the major impact
 
-<b>Vue générale de la simulation</b>
-
-&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="40%"  alt="Vue globale" title="Vue générale"/>
 
 <b>Vue générale des réglages</b>
 
