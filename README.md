@@ -12,25 +12,32 @@ Draw laser path through 3 mirrors and the optical lens
   * selecting correction of the major impact
 
 <b>Vue générale de la simulation</b>
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Global.png" width="40%"  alt="Vue globale" title="Vue générale"/>
 
 <b>Vue générale des réglages</b>
-<p style="text-align:center;">
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Reglages.png" width="40%"  alt="Réglages" title="Réglages des composants optiques"/>
- </p>
+
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/Reglages.png" width="40%"  alt="Réglages" title="Réglages des composants optiques"/>
+
 
 <b>Zoom sur le miroir 3, et projection</b>
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/MiroirM3.png" width="40%"  alt="Zoom sur le miroir M3" title="Miroir M3 et projection"/>
+
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/MiroirM3.png" width="40%"  alt="Zoom sur le miroir M3" title="Miroir M3 et projection"/>
  
 <b>Zoom sur la plan focal et projection</b>
-<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/PlanFocal.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/PlanFocal.png" width="40%"  alt="Vue globale" title="Vue générale"/>
  
  
 # Documentation
 
 Here you can find useful information about the adjustment parameters of each optical component inside the lasercutter.
 
-&theta<sub>Y>0
+<b>Réglage de l'inclinaison du tube laser :</b>
+
+  -  &nbsp;&theta;<sub>Y>0
+&nbsp;&nbsp;<img src="https://github.com/lbfablab/LaserCut_Optical_Simulator/blob/master/TubeLaserThetaY=10.png" width="40%"  alt="Vue globale" title="Vue générale"/>
+ 
+ 
  
  
 # Online Simulator
